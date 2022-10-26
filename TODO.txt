@@ -1,0 +1,2 @@
+- Different images/grid on reload
+    - create json array with fields - link, caption, type (photography | generated)
